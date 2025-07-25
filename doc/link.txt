@@ -1,0 +1,11 @@
+simulation:
+http://grauonline.de/alexwww/motorsim/motorsim.html
+
+winding pattern:
+https://www.bavaria-direct.co.za/scheme/calculator/
+
+https://www.simplefoc.com/
+
+https://vedder.se/2014/01/a-custom-bldc-motor-controller/
+
+https://vedder.se/2015/01/vesc-open-source-esc/
