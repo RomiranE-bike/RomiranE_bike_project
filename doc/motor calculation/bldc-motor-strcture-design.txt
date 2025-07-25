@@ -1,0 +1,20 @@
+Outer Diameter (OD): 130 mm 
+Inner Diameter (ID): 80 mm
+Stack Height (Laminated Height): 15 mm.
+Tooth Width at the base and tip:4 mm
+Slot Opening Width:5.9 mm
+Slot Depth:22 mm
+Airgap (stator to rotor):1 mm
+Poles (rotor magnet poles): e.g. 42 magnets = 21 pole pairs.
+Slot Count:  36 slots.
+Intended Winding Type: Star (Y) or Delta (Δ) which one u advice?
+Core Type: Is it Tooth-type (concentrated winding) or distributed winding which one u advice?
+Battery Voltage: (36V)
+Target RPM or KV (RPM/Volt):depnends on your advice and my core/voltage limitation 
+Target Power: depnends on your advice and my core/voltage limitation
+Torque Priority or Speed Priority:depnends on your advice and my core/voltage limitation
+Max Copper Fill: depnends on your advice and my core/voltage limitation
+Cooling Method: Passive(e-bike runing,air)
+Distributed winding,3-phase,12 teeth per phase, in an ABCABC... pattern.
+magnet type:20x10x5 mm, cermic/ferrite,42 pice
+winding type:multiy layer
