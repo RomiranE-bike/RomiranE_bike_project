@@ -1,4 +1,4 @@
-# Romiran_Ebike_project
+# RomiranE_bike_project
 #
 # Thanks to GENIRAN FAN (با سپاس و قدردانی از ژنیران فن)
 ![GENIRAN FAN Core](https://raw.githubusercontent.com/RomiranE-bike/Romiran_Ebike_project/main/20250517_175137.jpg)
