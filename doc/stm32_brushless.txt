@@ -1,1 +1,4 @@
 https://blog.avislab.com/stm32_brushless/
+https://erowbike.com/controllers.html#controller_repair
+https://community.simplefoc.com/t/help-hacking-a-cheap-e-bike-controller/530
+https://community.simplefoc.com/t/ebike-escooter-motor-controller-easy-to-diy-build-and-repair-with-room-for-custom-electronics-board/1500
