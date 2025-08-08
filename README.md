@@ -1,6 +1,6 @@
 # RomiranE_bike_project
 #
-# Thanks to GENIRAN FAN (با سپاس و قدردانی از ژنیران فن)
+<!--# Thanks to GENIRAN FAN (با سپاس و قدردانی از ژنیران فن)-->
 ![GENIRAN FAN Core](https://raw.githubusercontent.com/RomiranE-bike/RomiranE_bike_project/main/20250517_175137.jpg)
 
 <!-- The RomiranE-bike electric scooter project is an ambitious personal idea that I am building and developing with the aim of producing and commercializing it. I own the ownership or rights to the name, logo, design, idea, and document. Any use of them is subject to obtaining permission.-->
